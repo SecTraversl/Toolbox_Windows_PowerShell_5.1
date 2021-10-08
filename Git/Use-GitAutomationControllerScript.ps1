@@ -24,7 +24,7 @@ function Use-GitAutomationControllerScript {
   
   process {
     Write-Host "`ngit status`ngit add *`ngit status`ngit commit -m `$CommitMessage`ngit push origin main`n" -ForegroundColor Yellow -BackgroundColor Black
-    $Answer = Read-Host "Do you want to run the following? [y|n]:"
+    $Answer = Read-Host "Do you want to run the following? [y|n]"
 
     if ( $Answer.ToLower().StartsWith('y') ) {
       git status
