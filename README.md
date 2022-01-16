@@ -1,4 +1,4 @@
-# Windows_PowerShell_5.1_Tools
+# Toolbox of Windows PowerShell 5.1 Tools
 
 - This repo contains a bulk of tools and categories I have created using Windows PowerShell 5.1, with the intent to make it easy to do a "git clone" and grab all of the pertinent tools for PowerShell in a single download.  
 - I am, however, updating the categories, further curating the tools, and providing more uniform documentation for each category (subfolder) and making dedicated repos for each category.  
